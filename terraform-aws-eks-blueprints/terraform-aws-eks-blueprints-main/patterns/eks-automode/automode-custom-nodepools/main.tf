@@ -70,7 +70,7 @@ locals {
 
   tags = {
     Blueprint  = local.name
-    GithubRepo = "github.com/aws-ia/terraform-aws-eks-blueprints"
+    GithubRepo = "github.com/ajaypan2/EKS-Accelerators/terraform-aws-eks-blueprints"
   }
 
 }
